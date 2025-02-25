@@ -1,0 +1,34 @@
+.red{
+    width: 1450px;
+    height: 200px;
+    background-color: crimson;
+    text-align: center;
+    font-size: 100px;
+    color: aliceblue;
+    
+}
+.blue{
+    width: 1450px;
+    height: 300px;
+    background-color:midnightblue;
+    text-align: center;
+    font-size: 50px;
+}
+.red2{
+    width: 1450px;
+    height: 200px;
+    background-color: crimson;
+  
+}
+.circle {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%); 
+    width: 18%; 
+    height: 28%; 
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 50px;
+}
